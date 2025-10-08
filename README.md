@@ -1,7 +1,7 @@
 
 # India Vaccination Map Dashboard
 
-A **React-based interactive India vaccination map** that visualizes vaccination data for all Indian states using a **gradient color-coded map**. This dashboard allows users to explore state-wise vaccination statistics and provides an easy-to-understand tooltip and color legend.  
+A **React-based interactive dashboard** that visualizes COVID-19 vaccination data for all Indian states. This dashboard provides an intuitive, state-wise view of vaccination progress using a gradient color-coded map, tooltips, and responsive charts. 
 
 ![Screenshot](path-to-screenshot.png)
 
@@ -18,7 +18,6 @@ A **React-based interactive India vaccination map** that visualizes vaccination 
 - **Tooltip**: Smooth, dynamic tooltips that display detailed information per state.
 - **Gradient Legend**: Visual legend showing the vaccination range and corresponding colors.
 - **Loader Component**: Displays a loader until map and data are fully loaded.
-- **Responsive Design**: Works on different screen sizes.
 - **Background Tint & Smooth Hover**: Map features a subtle left-to-right background tint, and smooth hover effects for better user experience.
 
 
