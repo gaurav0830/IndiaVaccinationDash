@@ -39,7 +39,7 @@ You can check the live demo here: [Add your live demo link if available]
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/india-vaccination-map.git
+git clone https://github.com/gaurav0830/IndiaVaccinationDash.git
 cd india-vaccination-map
 ```
 2. Install dependencies:
