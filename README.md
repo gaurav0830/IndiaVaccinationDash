@@ -3,7 +3,7 @@
 
 A **React-based interactive dashboard** that visualizes COVID-19 vaccination data for all Indian states. This dashboard provides an intuitive, state-wise view of vaccination progress using a gradient color-coded map, tooltips, and responsive charts. 
 
-![Screenshot](path-to-screenshot.png)
+![Screenshot](IndiaVaccinationDashPic.png)
 
 
 ## Features
