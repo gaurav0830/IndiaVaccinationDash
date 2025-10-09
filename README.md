@@ -24,7 +24,7 @@ A **React-based interactive dashboard** that visualizes COVID-19 vaccination dat
 
 ## Demo
 
-You can check the live demo here: [Add your live demo link if available]
+You can check the live demo here: https://india-vaccination-dash.vercel.app/
 ## Technologies Used
 
 - **React.js** - Frontend library  
